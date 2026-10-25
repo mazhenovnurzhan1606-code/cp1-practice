@@ -30,3 +30,5 @@ Try on your own before you read it.
 
 Each block is worth 15 points for the fix and 10 for its diagnosis. The exact
 rules are in `checkpoint/mark_cp1.py`.
+
+Practice: learning the Pull Request workflow.
